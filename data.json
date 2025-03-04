@@ -1,0 +1,23 @@
+[
+  {
+    "id": 0,
+    "name": "clothes",
+    "price": "120",
+    "description": "sdfdsfxvccsdf",
+    "category": "clothing"
+  },
+  {
+    "id": 1,
+    "name": "clothes",
+    "price": "122",
+    "description": "sdfdsfxvccsdfdfsaf",
+    "category": "clothing"
+  },
+  {
+    "id": 2,
+    "name": "clothes",
+    "price": "122",
+    "description": "sdfdsfxvccsdfdfsaf",
+    "category": "electronics"
+  }
+]
